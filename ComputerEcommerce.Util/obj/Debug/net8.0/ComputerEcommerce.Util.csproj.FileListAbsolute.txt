@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Util.deps.json
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Util.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Util.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Model.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Shared.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Model.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\bin\Debug\net8.0\ComputerEcommerce.Shared.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.csproj.CopyComplete
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\refint\ComputerEcommerce.Util.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ComputerEcommerce.Util.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Util\obj\Debug\net8.0\ref\ComputerEcommerce.Util.dll

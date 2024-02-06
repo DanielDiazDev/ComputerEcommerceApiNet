@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\bin\Debug\net8.0\ComputerEcommerce.Model.deps.json
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\bin\Debug\net8.0\ComputerEcommerce.Model.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\bin\Debug\net8.0\ComputerEcommerce.Model.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\refint\ComputerEcommerce.Model.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ComputerEcommerce.Model.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Model\obj\Debug\net8.0\ref\ComputerEcommerce.Model.dll
