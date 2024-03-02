@@ -15,3 +15,4 @@ C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Data\obj\D
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Data\obj\Debug\net8.0\ComputerEcommerce.Data.pdb
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Data\obj\Debug\net8.0\ComputerEcommerce.Data.genruntimeconfig.cache
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Data\obj\Debug\net8.0\ref\ComputerEcommerce.Data.dll
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.Data\obj\Debug\net8.0\ComputerEcommerce.Data.sourcelink.json

@@ -154,3 +154,4 @@ C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.API\bin\De
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.API\bin\Debug\net8.0\ComputerEcommerce.Service.pdb
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.API\bin\Debug\net8.0\ComputerEcommerce.Shared.pdb
 C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.API\bin\Debug\net8.0\ComputerEcommerce.Util.pdb
+C:\Users\User\Desktop\Practica C#\ComputerEcommerce\ComputerEcommerce.API\obj\Debug\net8.0\ComputerEcommerce.API.sourcelink.json

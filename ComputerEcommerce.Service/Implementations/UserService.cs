@@ -22,10 +22,14 @@ namespace ComputerEcommerce.Service.Implementations
             _userManager = userManager;
             _signInManager = signInManager;
             _roleManager = roleManager;
+
         }
 
         public async Task<SessionDTO> Authorization(LoginDTO entity)
         {
+            var role = new IdentityRole();
+            role.Name = "administrador";
+            await _roleManager.CreateAsync(role);
             var user = await _userManager.FindByEmailAsync(entity.Email);
             if(user != null)
             {
@@ -65,7 +69,6 @@ namespace ComputerEcommerce.Service.Implementations
 
             user.Email = entity.Email;
             user.FullName = entity.FullName;
-            // Actualizar otros campos si es necesario
 
             var result = await _userManager.UpdateAsync(user);
             return result.Succeeded;
@@ -88,6 +91,7 @@ namespace ComputerEcommerce.Service.Implementations
 
         public async Task<List<UserDTO>> List(string role, string find)
         {
+
             var users = await _userManager.Users.ToListAsync();
             if (!string.IsNullOrWhiteSpace(role))
             {
@@ -113,9 +117,7 @@ namespace ComputerEcommerce.Service.Implementations
             {
                 throw new ArgumentException("Las contraseñas no coinciden.");
             }
-            var role = new IdentityRole();
-            role.Name = "usuario";
-            await _roleManager.CreateAsync(role);
+            
 
             var user = new User
             {
